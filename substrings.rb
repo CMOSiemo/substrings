@@ -33,7 +33,7 @@ def substrings(text, dictionary)
   #Curate text and store in an array
   array = curatext_to_array(text)
   
-  #Reduce to accumulate of elements as labels in a hash
+  #Reduce to accumulate elements as labels in a hash
   array.reduce(Hash.new(0)) do |hash, word|
     
     #Add when included
