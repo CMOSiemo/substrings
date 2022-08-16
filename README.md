@@ -2,6 +2,7 @@
 
 #### By _**Claudio Martínez Ortiz**_
 
+
 ## Description
 
 #### _Substrings exercise for [TOP](https://www.theodinproject.com/lessons/ruby-sub-strings)_
@@ -11,7 +12,6 @@
 ## Use
 
     substrings(string, array_of_strings)
-
 #### _Where string is the text and array_of_strings is the dictionary_
 
 ## Technologies Used 
